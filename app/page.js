@@ -36,6 +36,7 @@ export default function Home() {
     <Route path="/Login" element={<Login/>}/> 
     <Route path="/Signup" element={<Signup/>}/> 
     <Route path="/Admin" element={<Admin/>}/>
+    
 
   </Routes>
   </Header>

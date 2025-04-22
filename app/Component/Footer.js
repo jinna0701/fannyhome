@@ -50,7 +50,7 @@ const Footer = () => {
                 <div className="flex-1 min-w-[200px] mb-8 pr-8">
                     <h4 className="text-gray-800 mb-4 text-lg font-semibold">Contact Us</h4>
                     <p className="mb-2">
-                        <i className="fa fa-map-marker text-orange-500 mr-2"></i> 123 Playground Ave, Kidsville
+                        <i className="fa fa-map-marker text-orange-500 mr-2"></i> 162 Playground Ave, SW , Calgary, AB
                     </p>
                     <p className="mb-2">
                         <i className="fa fa-phone text-orange-500 mr-2"></i> (555) 123-4567
@@ -59,7 +59,7 @@ const Footer = () => {
                         <i className="fa fa-envelope text-orange-500 mr-2"></i> info@littleadventures.com
                     </p>
                     <p>
-                        <i className="fa fa-clock-o text-orange-500 mr-2"></i> Mon-Fri: 7:00 AM - 6:00 PM
+                        <i className="fa fa-clock-o text-orange-500 mr-2"></i> Mon-Fri: 7:00 AM - 5:00 PM
                     </p>
                 </div>
 
