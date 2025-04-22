@@ -11,13 +11,12 @@ import Question from './Question';
 import Login from './Login';
 import Signup from './Signup';
 import Footer from './Component/Footer';
-import Admin from './Component/Admin';
+import Admin from './Admin';
 
 
 
 
-
-
+ 
 export default function Home() {
 
   
@@ -25,6 +24,7 @@ export default function Home() {
     
     <BrowserRouter>
   <Header>
+     
   <Routes>
      
     <Route path="/Landing" element={<Landing/>}/>   
@@ -47,9 +47,36 @@ export default function Home() {
 )
  
 }
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //install tailwindcss
 //npm install react-router-dom
 //npm install -D tailwindcss
 //npx tailwindcss init
+//npm install lucide-react
+
+
+
 
 

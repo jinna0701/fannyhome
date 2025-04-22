@@ -84,7 +84,7 @@ const Footer = () => {
             </div>
 
             <div className="max-w-6xl mx-auto px-8 pt-6 border-t border-gray-300 flex flex-wrap justify-between items-center">
-                <p className="text-sm">&copy; 2025 Little Adventures. All rights reserved.</p>
+                <p className="text-sm">&copy; 2025 Franny Day Home. All rights reserved.</p>
                 <div className="flex space-x-6 mt-4 md:mt-0">
                     <a href="#" className="text-gray-700 hover:text-orange-500 transition">
                         Privacy Policy
