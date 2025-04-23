@@ -77,6 +77,9 @@ export default function Home() {
 //npx tailwindcss init
 //npm install lucide-react
 
+//npm install bootstrap
+
+
 
 
 

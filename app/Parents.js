@@ -1,10 +1,13 @@
 import React from 'react'
-import ParentAccount from './Component/ParentAccount'
+ 
+ 
+import Landing from './Landing'
 
 function Parents() {
   return (
     <div>
-      <ParentAccount/>
+    This is the Parents page
+      <Landing/>
     </div>
   )
 }
